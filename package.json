@@ -45,6 +45,8 @@
     "@ckeditor/ckeditor5-table": "^11.0.1",
     "@ckeditor/ckeditor5-theme-lark": "^12.0.0",
     "@ckeditor/ckeditor5-upload": "^10.0.4",
+    "@ckeditor/ckeditor5-ui": "^11.2.0",
+    "ckeditor5-emptyness": "git+https://github.com/JD-Apps/ckeditor5-emptyness.git",
     "eslint": "^5.5.0",
     "eslint-config-ckeditor5": "^1.0.7",
     "husky": "^0.14.3",
