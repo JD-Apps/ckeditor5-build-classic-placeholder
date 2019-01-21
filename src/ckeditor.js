@@ -27,7 +27,7 @@ import Paragraph from '@ckeditor/ckeditor5-paragraph/src/paragraph';
 import PasteFromOffice from '@ckeditor/ckeditor5-paste-from-office/src/pastefromoffice';
 import Table from '@ckeditor/ckeditor5-table/src/table';
 import TableToolbar from '@ckeditor/ckeditor5-table/src/tabletoolbar';
-import * as Emptyness from 'ckeditor5-emptyness/src/emptyness';
+import Emptyness from 'ckeditor5-emptyness/src/emptyness';
 
 export default class ClassicEditor extends ClassicEditorBase {}
 
